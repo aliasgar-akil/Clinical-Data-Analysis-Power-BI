@@ -9,7 +9,7 @@
 - Published and maintained reports in Power BI Service, configuring row-level security (RLS) and automating scheduled refreshes to ensure up to date visuals
 
 
-Snapshot of Dashboards:
+## Snapshot of Dashboards:
 
 ![Image](https://github.com/user-attachments/assets/a82dc6a0-a54e-44aa-ad95-1a8c5640fc2b)
 
